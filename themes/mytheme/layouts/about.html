@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="about-page">
+  <div class="about-hero">
+    {{ with .Params.profile_image }}
+    <img src="{{ . | relURL }}" alt="Foto profil {{ $.Site.Title }}" class="profile-image">
+    {{ end }}
+
+    <h1 class="about-title">{{ .Title }}</h1>
+
+    <div class="about-content">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}

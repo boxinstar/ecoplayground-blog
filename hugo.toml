@@ -1,0 +1,8 @@
+baseURL = 'https://ecoplayground.biz.id/'
+languageCode = 'id-id'
+title = 'Smart Home Tutor'
+theme = "mytheme"
+
+[params]
+  description = "Panduan, tutorial, dan review seputar teknologi smart home di Indonesia untuk hunian yang lebih efisien, hemat energi, dan ramah lingkungan."
+  default_image = "/images/og-default.jpg" # Buat gambar default (misal: 1200x630px) dan letakkan di static/images/

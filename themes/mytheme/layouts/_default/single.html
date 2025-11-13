@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="post-layout">
+  <main class="main-content">
+    <article class="single-post">
+      {{ with .Params.featured_image }}
+        <div class="single-post-image-container">
+          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="single-post-image">
+        </div>
+      {{ end }}
+      <h1>{{ .Title }}</h1>
+      <div class="meta">
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+        {{ with .Params.tags }}
+          <span class="tags">
+            | Tags:
+          {{ range . }}
+            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
+          {{ end }}
+          </span>
+        {{ end }}
+      </div>
+      <div class="post-content">
+        {{ .Content }}
+      </div>
+    </article>
+
+    {{/* Related Posts Section */}}
+    {{ $related := .Site.RegularPages.Related . | first 4 }}
+    {{ with $related }}
+    <section class="related-posts-section">
+      <h2 class="related-posts-title">More from {{ $.Site.Title }}:</h2>
+      <div class="related-posts-grid">
+        {{ range . }}
+        <a href="{{ .Permalink }}" class="related-post-item">
+          <div class="related-post-thumbnail-wrapper">
+            {{ with .Params.featured_image }}
+              <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="related-post-thumbnail" loading="lazy">
+            {{ else }}
+              <img src="/images/placeholder.jpg" alt="Placeholder image" class="related-post-thumbnail" loading="lazy">
+            {{ end }}
+          </div>
+          <div class="related-post-content">
+            <h4 class="related-post-item-title">{{ .Title }}</h4>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+  </main>
+  <aside class="sidebar">
+    {{ partial "about-author.html" . }}
+    {{ partial "tag-cloud.html" . }}
+  </aside>
+</div>
+{{ end }}

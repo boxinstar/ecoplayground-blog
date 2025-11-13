@@ -1,0 +1,8 @@
+<div class="sidebar-widget widget-tags">
+  <h3>Tag Populer</h3>
+  <div class="tag-cloud">
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" class="tag">{{ $name }}</a>
+    {{ end }}
+  </div>
+</div>
