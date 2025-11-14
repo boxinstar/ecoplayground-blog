@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Smart Home Tutor</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://ecoplayground.biz.id/tags/</link>
     <description>Recent content in Tags on Smart Home Tutor</description>
     <generator>Hugo</generator>
     <language>id-id</language>
     <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ecoplayground.biz.id/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide</title>
-      <link>http://localhost:1313/tags/guide/</link>
+      <link>https://ecoplayground.biz.id/tags/guide/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/guide/</guid>
+      <guid>https://ecoplayground.biz.id/tags/guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Smarthome</title>
-      <link>http://localhost:1313/tags/smarthome/</link>
+      <link>https://ecoplayground.biz.id/tags/smarthome/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/smarthome/</guid>
+      <guid>https://ecoplayground.biz.id/tags/smarthome/</guid>
       <description></description>
     </item>
     <item>
       <title>Efisiensi Listrik</title>
-      <link>http://localhost:1313/tags/efisiensi-listrik/</link>
+      <link>https://ecoplayground.biz.id/tags/efisiensi-listrik/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/efisiensi-listrik/</guid>
+      <guid>https://ecoplayground.biz.id/tags/efisiensi-listrik/</guid>
       <description></description>
     </item>
     <item>
       <title>Hemat Energi</title>
-      <link>http://localhost:1313/tags/hemat-energi/</link>
+      <link>https://ecoplayground.biz.id/tags/hemat-energi/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hemat-energi/</guid>
+      <guid>https://ecoplayground.biz.id/tags/hemat-energi/</guid>
       <description></description>
     </item>
     <item>
       <title>Komunitas</title>
-      <link>http://localhost:1313/tags/komunitas/</link>
+      <link>https://ecoplayground.biz.id/tags/komunitas/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/komunitas/</guid>
+      <guid>https://ecoplayground.biz.id/tags/komunitas/</guid>
       <description></description>
     </item>
     <item>
       <title>Tips Hemat</title>
-      <link>http://localhost:1313/tags/tips-hemat/</link>
+      <link>https://ecoplayground.biz.id/tags/tips-hemat/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tips-hemat/</guid>
+      <guid>https://ecoplayground.biz.id/tags/tips-hemat/</guid>
       <description></description>
     </item>
     <item>
       <title>Tokoh</title>
-      <link>http://localhost:1313/tags/tokoh/</link>
+      <link>https://ecoplayground.biz.id/tags/tokoh/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tokoh/</guid>
+      <guid>https://ecoplayground.biz.id/tags/tokoh/</guid>
       <description></description>
     </item>
   </channel>
