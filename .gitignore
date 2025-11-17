@@ -1,5 +1,16 @@
-# Track only public/ in this repo; ignore everything else
-*
-!.gitignore
-!/public/
-!/public/**
+# Ignore Hugo source files; keep built assets at repo root for deployment
+archetypes/
+assets/
+content/
+data/
+i18n/
+layouts/
+static/
+themes/
+resources/
+.hugo_build.lock
+config.toml
+config.yaml
+config.json
+hugo.toml
+.github/
