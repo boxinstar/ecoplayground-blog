@@ -249,6 +249,40 @@ a:hover {
   margin-bottom: 1em;
 }
 
+/* Helpers: note, tip, breadcrumb */
+.note {
+  border-left: 4px solid #3b82f6;
+  background: #f0f6ff;
+  padding: 12px 14px;
+  margin: 16px 0;
+  border-radius: 6px;
+  color: #1f2937;
+}
+.tip {
+  border-left: 4px solid #10b981;
+  background: #ecfdf3;
+  padding: 12px 14px;
+  margin: 16px 0;
+  border-radius: 6px;
+  color: #064e3b;
+}
+.breadcrumb {
+  font-size: 0.95rem;
+  margin: 12px 0 20px;
+  color: var(--color-neutral-dark);
+}
+.breadcrumb a {
+  color: var(--color-accent-green);
+  text-decoration: none;
+}
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+.breadcrumb-sep {
+  margin: 0 6px;
+  color: var(--color-neutral-medium);
+}
+
 .tags .tag {
   display: inline-block;
   background: var(--color-accent-green);
