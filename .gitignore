@@ -8,6 +8,7 @@ layouts/
 static/
 themes/
 resources/
+public/
 .hugo_build.lock
 config.toml
 config.yaml
