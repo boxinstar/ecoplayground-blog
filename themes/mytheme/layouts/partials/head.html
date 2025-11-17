@@ -62,4 +62,6 @@
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{- end -}}
 
+{{- partial "structured-data.html" . }}
+
 {{- /* Kode ini akan menggantikan <head> lama Anda */}}

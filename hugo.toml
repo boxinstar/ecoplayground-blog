@@ -3,8 +3,19 @@ languageCode = 'id-id'
 title = 'Smart Home Tutor'
 theme = "mytheme"
 
-enableRobotsTXT = false
+# Aktifkan robots.txt dari template
+enableRobotsTXT = true
 
 [params]
   description = "Panduan, tutorial, dan review seputar teknologi smart home di Indonesia untuk hunian yang lebih efisien, hemat energi, dan ramah lingkungan."
-  default_image = "/images/og-default.jpg" # Buat gambar default (misal: 1200x630px) dan letakkan di static/images/
+  default_image = "/images/og-default.png" # Buat gambar default (misal: 1200x630px) dan letakkan di static/images/
+  logo = "/images/logo.png" # Siapkan logo minimal 112x112px di static/images/
+  brand = "EcoSmartHome"
+  author = "Handayani P"
+  author_full = "Handayani Pratiwi"
+  contact_email = "info@ecoplayground.biz.id"
+  contact_phone = "+62 821 6402 9767"
+  same_as = [
+    "https://www.instagram.com/eco.smart.home/",
+    "https://x.com/EcoSmartHome",
+  ]

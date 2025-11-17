@@ -1,6 +1,7 @@
 ---
 title: "Cara Menghitung Potensi Penghematan Energi dengan Sistem Smart Home"
-date: 2025-11-01
+date: 2025-11-11
+lastmod: 2025-11-17
 tags: ["smarthome", "hemat energi", "efisiensi listrik", "tips hemat"]
 featured_image: "/images/test.jpg" # <-- TAMBAHKAN INI
 slug: "potensi-penghematan-energi-smart-home"

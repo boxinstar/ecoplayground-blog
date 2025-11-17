@@ -1,6 +1,7 @@
 ---
 title: "Organisasi dan Tokoh Inspiratif di Balik Eco Smart Home Indonesia"
-date: 2025-11-01
+date: 2025-11-12
+lastmod: 2025-11-17
 tags: ["smarthome", "tokoh", "komunitas"]
 featured_image: "/images/test.jpg" # <-- TAMBAHKAN INI
 slug: "organisasi-tokoh-eco-smart-home-indonesia"

@@ -1,6 +1,7 @@
 ---
 title: "Panduan Lengkap Eco Smart Home Untuk Pemula"
-date: 2025-11-03
+date: 2025-11-10
+lastmod: 2025-11-17
 tags: ["guide", "smarthome"]
 meta_description: "Panduan lengkap untuk pemula membangun Eco Smart Home di Indonesia. Pelajari cara praktis menghadirkan hunian sehat, hemat energi, dan efisien."
 keywords: ["eco smart home", "panduan pemula", "rumah pintar", "hemat energi", "indonesia"]
