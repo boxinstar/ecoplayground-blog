@@ -1,4 +1,5 @@
-public/
-resources/
-.hugo_build.lock
-.DS_Store
+# Track only public/ in this repo; ignore everything else
+*
+!.gitignore
+!/public/
+!/public/**
