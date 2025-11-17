@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audit Energi on Smart Home Tutor</title><link>https://ecoplayground.biz.id/tags/audit-energi/</link><description>Recent content in Audit Energi on Smart Home Tutor</description><generator>Hugo</generator><language>id-id</language><lastBuildDate>Mon, 17 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ecoplayground.biz.id/tags/audit-energi/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart Home Checklist: Audit Energi Sebelum Otomasi</title><link>https://ecoplayground.biz.id/posts/smart-home-checklist-audit-energi/</link><pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate><guid>https://ecoplayground.biz.id/posts/smart-home-checklist-audit-energi/</guid><description>&lt;h2 id="kenapa-audit-energi-wajib-sebelum-otomatisasi"&gt;Kenapa audit energi wajib sebelum otomatisasi&lt;/h2&gt;
-&lt;p&gt;Sebelum belanja perangkat smart home, audit energi membantu memetakan beban listrik, prioritas otomasi, dan potensi penghematan. Tanpa baseline, sulit mengukur apakah investasi sensor, smart plug, atau lampu pintar benar-benar menurunkan kWh dan rupiah di tagihan PLN.&lt;/p&gt;
+&lt;p&gt;Sebelum belanja perangkat smart home, audit energi membantu memetakan beban listrik, prioritas otomasi, dan potensi penghematan. Tanpa baseline, sulit mengukur apakah investasi sensor, smart plug, atau lampu pintar benar-benar menurunkan kWh dan rupiah di tagihan PLN. Setelah menghitung, lanjutkan ke “quick win” seperti &lt;a href="https://ecoplayground.biz.id/posts/panduan-smart-lighting-hemat-energi"&gt;smart lighting hemat energi&lt;/a&gt; dan &lt;a href="https://ecoplayground.biz.id/posts/otomasi-ac-hemat-listrik"&gt;otomasi AC hemat listrik&lt;/a&gt; supaya dampaknya langsung terasa.&lt;/p&gt;
 &lt;h3 id="hindari-beli-perangkat-yang-tidak-memberi-dampak-terbesar"&gt;Hindari beli perangkat yang tidak memberi dampak terbesar&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Petakan beban terbesar (AC, pompa air, kulkas, dispenser, lampu dominan) sebelum membeli perangkat smart. Ini memastikan dana tidak habis untuk perangkat yang jarang dipakai.&lt;/li&gt;
@@ -26,13 +26,13 @@
 &lt;li&gt;AC 900W (1 PK), 8 jam/hari: 900 × 8 × 30 ÷ 1000 = 216 kWh/bulan → ±Rp324.000/bulan.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Buat tabel “sebelum” dan “sesudah” otomasi untuk melihat selisih kWh dan rupiah.&lt;/li&gt;
+&lt;li&gt;Buat tabel “sebelum” dan “sesudah” otomasi untuk melihat selisih kWh dan rupiah; contoh simulasi ada di &lt;a href="https://ecoplayground.biz.id/posts/potensi-penghematan-energi-smart-home"&gt;panduan penghematan energi smart home&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="prioritas-otomasi-fokus-ke-beban-paling-boros"&gt;Prioritas otomasi: fokus ke beban paling boros&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Smart lighting (sensor gerak/timer) untuk ruang yang sering lupa dimatikan (koridor, dapur, teras).&lt;/li&gt;
 &lt;li&gt;Smart plug metering untuk alat standby (TV, charger, dispenser) agar tidak terus-menerus siaga.&lt;/li&gt;
-&lt;li&gt;IR blaster + sensor gerak/pintu untuk AC; jadwal otomatis tidur/pulang agar AC tidak nyala di ruangan kosong.&lt;/li&gt;
+&lt;li&gt;IR blaster + sensor gerak/pintu untuk AC; jadwal otomatis tidur/pulang agar AC tidak nyala di ruangan kosong. Jika butuh skenario detail, lihat &lt;a href="https://ecoplayground.biz.id/posts/otomasi-ac-hemat-listrik"&gt;otomasi AC hemat listrik&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Jadwal pompa air agar tidak menyala di jam beban puncak dan tidak lupa dimatikan.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="cara-menetapkan-target-penghematan"&gt;Cara menetapkan target penghematan&lt;/h2&gt;

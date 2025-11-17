@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ac on Smart Home Tutor</title><link>https://ecoplayground.biz.id/tags/ac/</link><description>Recent content in Ac on Smart Home Tutor</description><generator>Hugo</generator><language>id-id</language><lastBuildDate>Mon, 17 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ecoplayground.biz.id/tags/ac/index.xml" rel="self" type="application/rss+xml"/><item><title>Otomasi AC Hemat Listrik: Jadwal, Sensor, dan IR Blaster</title><link>https://ecoplayground.biz.id/posts/otomasi-ac-hemat-listrik/</link><pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate><guid>https://ecoplayground.biz.id/posts/otomasi-ac-hemat-listrik/</guid><description>&lt;h2 id="kenapa-ac-jadi-prioritas-hemat-energi"&gt;Kenapa AC jadi prioritas hemat energi&lt;/h2&gt;
-&lt;p&gt;Dalam audit energi rumah, AC biasanya jadi beban terbesar (500–1200W per unit). Sedikit disiplin jam pakai plus otomasi sederhana bisa memotong 10–30% konsumsi bulanan tanpa mengorbankan nyaman.&lt;/p&gt;
+&lt;p&gt;Dalam audit energi rumah, AC biasanya jadi beban terbesar (500–1200W per unit). Sedikit disiplin jam pakai plus otomasi sederhana bisa memotong 10–30% konsumsi bulanan tanpa mengorbankan nyaman. Mulai dari audit dasar di &lt;a href="https://ecoplayground.biz.id/posts/smart-home-checklist-audit-energi"&gt;checklist audit energi&lt;/a&gt; supaya baseline kWh-nya jelas, lalu coba langkah “quick win” seperti smart lighting sebelum ke AC jika butuh bukti awal hemat.&lt;/p&gt;
 &lt;h2 id="dua-kunci-jadwal--deteksi-kehadiran"&gt;Dua kunci: jadwal &amp;amp; deteksi kehadiran&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Jadwal tidur: turunkan suhu di awal, lalu naikkan 1–2°C setelah 2 jam supaya kompresor tidak terus-terusan kerja.&lt;/li&gt;
@@ -24,6 +24,7 @@
 &lt;li&gt;&lt;strong&gt;Mode tidur (8 jam)&lt;/strong&gt;: 22–23°C di 60 menit pertama, naik ke 26°C + fan low setelah 90–120 menit, matikan otomatis 30 menit sebelum bangun jika ventilasi aman.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mode keluar rumah&lt;/strong&gt;: jika tidak ada gerak 10–15 menit + pintu tertutup → set fan low atau off. Saat pulang (geofence/app) → nyalakan 5–10 menit sebelum tiba.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mode siang kerja&lt;/strong&gt;: batasi nyala maksimal 2 jam, kemudian jeda 30 menit; cocok untuk ruang kerja kecil.&lt;/li&gt;
+&lt;li&gt;Jika rumah pakai smart lighting, sinkronkan skenario keluar/pulang supaya lampu dan AC sama-sama hemat.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="estimasi-penghematan"&gt;Estimasi penghematan&lt;/h2&gt;
 &lt;ul&gt;
